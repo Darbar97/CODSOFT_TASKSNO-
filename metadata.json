@@ -1,0 +1,6 @@
+{
+  "name": "QuizCraft - Online Quiz Maker & Challenge Platform",
+  "description": "Create, customize, and take engaging multiple-choice quizzes with instant grading, explanations, and score tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
